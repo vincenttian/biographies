@@ -1,0 +1,73 @@
+Overview:
+Infobox officeholder
+name         = Jack Lew
+image        = Jacob Lew.jpg
+office       = 75th United States Secretary of the Treasury
+president    = Barack Obama
+term_start   = February 28, 2013
+term_end     = 
+predecessor  = Timothy Geithner
+successor    =  
+office1       = 25th White House Chief of Staff
+president1    = Barack Obama
+term_start1   = January 27, 2012
+term_end1     = January 25, 2013
+predecessor1  = William M. DaleyWilliam Daley
+successor1    = Denis McDonough
+office2     = Director of the Office of Management and Budget
+president2   = Barack Obama
+term_start2  = November 18, 2010
+term_end2    = January 27, 2012
+predecessor2 = Jeffrey Zients small(Acting)
+successor2  = Jeffrey Zients small(Acting)
+president3   = Bill Clinton
+term_start3  = May 21, 1998
+term_end3    = January 19, 2001
+predecessor3 = Franklin Raines
+successor3   = Mitch Daniels
+office4     = Deputy Secretary of State for Management and Resources
+1blankname4  = Secretary
+1namedata4   = Hillary Rodham ClintonHillary Clinton
+term_start4  = January 28, 2009
+term_end4    = November 18, 2010
+predecessor4 = Position established
+successor4   = Thomas R. NidesThomas Nides
+birthname    = Jacob Joseph Lew
+birth_date   = birth date and age1955829
+birth_place  = nowrapNew York City, New York, United StatesU.S.
+death_date   =
+death_place  = 
+party        = Democratic Party (United States)Democratic
+alma_mater   = Carleton CollegeHarvard UniversityGeorgetown University Law Center
+profession   = Lawyer
+religion     = Orthodox Judaism anchorsignature 
+signature    = Jacob J Lew Signature.svg
+spouse=Ruth Schwartz
+
+'''Jacob Joseph''' "'''Jack'''" '''Lew''' (born August 29, 1955) is the current United States Secretary of the Treasury and an American government administrator who served as the 25th White House Chief of Staff from 2012 to 2013. Lew previously served as Director of the Office of Management and Budget in the Bill ClintonClinton and Barack ObamaObama Administrations. He is a member of the Democratic Party (United States)Democratic party. He is an attorney. He has also been employed in the private section.
+
+==United States Secretary of Treasury Nomination==
+On January 10, 2013, Lew was nominated to become United States Secretary of the Treasurycite weburl=http://www.nytimes.com/2013/01/11/us/politics/lew-to-complete-change-of-obamas-economic-team.html?hpw&_r=0publisher=''The New York Times''author=Jackie Calmestitle=Lew Would Complete Transformation of Obama’s Economic Teamdate=January 10, 2013accessdate=January 26, 2013 during Obama's second term replacing Timothy Geithner, who retired. He was confirmed for being the next secretary of the treasury by the United States Senate on February 27, 2013.
+
+==References==
+reflist
+
+==Other websites==
+*[http://www.whitehouse.gov/administration/staff/jack-lew Chief of Staff Jack Lew] at The White House
+*CongLinks c-span = jacoblew rose = 7131 imdb = 4419312 worldcat = lccn-no98-116706 bloomberg = jacob-lew nyt = l/jacob_j_lew washpo = gIQAfaqw6O wsj = L/jacob-lew/6182 
+
+USSecTreas
+Obama cabinet
+WHCOS
+G8-Finance
+
+
+US-bio-stub
+
+DEFAULTSORT:Lew, Jack
+Category:1955 births
+Category:Living people
+Category:American Jews
+Category:Harvard University alumni
+Category:People from New York City
+Category:White House Chiefs of Staff

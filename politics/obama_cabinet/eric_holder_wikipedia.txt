@@ -1,0 +1,57 @@
+Overview:
+Infobox officeholder
+name         = Eric Holder
+image        = Eric Holder official portrait.jpg
+imagesize    = 250px
+order        = 82nd
+title        = United States Attorney General
+term_start   = February 3, 2009cite newsaccessdate=February 12, 2009 url=http://www.usdoj.gov/ag/ title=USDOJ: Office of the Attorney General publisher=US Department of Justice date=February 12, 2009
+term_end     = 
+president    = Barack Obama
+predecessor  = Michael Mukasey
+title2       = United States Attorney GeneralActing
+term_start2  = January 20, 2001
+term_end2    = February 2, 2001
+president2   = George W. Bush
+predecessor2 = Janet Reno
+successor2   = John Ashcroft
+order3       = United States Deputy Attorney GeneralDeputy Attorney General of the United States 
+term_start3  = 1997
+term_end3    = 2001
+president3   = Bill Clinton
+predecessor3 = Jamie Gorelick
+successor3   = Larry Thompson
+order4       = US Attorney for the United States District Court for the District of ColumbiaDistrict of Columbia
+term_start4  = 1993
+term_end4    = 1997
+president4   = Bill Clinton
+birth_date   = birth date and agemf=yes1951121
+birth_place  = The Bronx, New York, United States
+death_date   = 
+death_place  = 
+party        = Democratic Party (United States)Democratic
+profession   = Attorney at law (United States)Attorney at law
+alma_mater  = Columbia University  Columbia Law School
+religion     = Episcopal Church (United States)Episcopalian
+spouse       = Sharon Malone 
+children     = (3)
+
+
+'''Eric Holder''' (born January 21, 1951) is the current United States Attorney GeneralAttorney General of the United States, serving under President Barack Obama.  He is the first African-American to hold that post.cite weburl=http://www.washingtonpost.com/wp-dyn/content/article/2009/02/02/AR2009020202581.htmltitle=Holder Confirmed As the First Black Attorney General: Nominee Overcame Objections in GOPlast=Johnsonfirst=Carriedate=Tuesday, February 3, 2009publisher=The Washington Postpages=Page A02accessdate=2009-07-03  Before being named as Attorney General, he was the U.S. Attorney for the District of Columbia under Bill ClintonPresident Clintoncite web url=http://www.law.com/jsp/article.jsp?id=1202421950304 title=Making History With Obama accessdate=November 18, 2008 last=Longstreth first=Andrew year=2008 month=June work=Making History format=Cover Story publisher=The American Lawyer and help pick Joe Biden as Obama's running mate.cite weburl=http://projects.nytimes.com/44th_president/new_team/show/eric-holdertitle=The New Team: President Obama has now filled nearly all of the major posts in his new administration. publisher=The New York Timesaccessdate=2010-01-03  Holder was born in the Bronx.
+
+==References==
+reflist
+
+Obama cabinetstate=collapsed
+
+
+US-bio-stub
+
+DEFAULTSORT:Holder, Eric
+Category:1951 births
+Category:Living people
+Category:United States Attorneys General
+Category:Politicians from New York City
+Category:Columbia University alumni
+Category:US Democratic Party politicians
+Category:American lawyers

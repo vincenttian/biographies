@@ -6,13 +6,11 @@ import urllib
 import urllib2
 
 # Define list of people here
-people = ['anne_wojcicki', 'bill_gates', 'brian_chesky', 'chris_anderson'\
-        'drew_houston', 'elon_musk', 'jack_dorsey', 'jeff_bezos'\
-        'larry_ellison', 'larry_page', 'marc_benioff', 'marissa_mayer'\
-        'mark_zuckerberg', 'meg_whitman', 'michael_dell', 'nikola_tesla'\
-        'peter_thiel', 'sergey_brin', 'shantau_narayen', 'sheryl_sandberg'\
-        'steve_ballmer', 'steve_jobs', 'steve_wozniak', 'tim_cook'\
-        ]
+people = ['anthony_foxx', 'chuck_hagel', 'eric_holder', 'ernest_moniz'\
+        'hilda_solis', 'hillary_clinton', 'jack_lew', 'janet_napolitano'\
+        'jeh_johnson', 'joe_biden', 'john_kerry', 'ken_salazar'\
+        'leon_panetta', 'ray_lahood', 'robert_gates', 'sally_jewell'\
+        'steven_chu', 'thomas_perez', 'tim_geithner']
 
 class WikipediaError(Exception):
     pass

@@ -1,0 +1,68 @@
+Overview:
+Infobox officeholder
+name = Robert Michael Gates
+image = Robert Gates, official DoD photo portrait, 2006.jpg
+birth_date = birth date and age19430925
+birth_place = Wichita, KansasWichita, Kansas
+alma_mater=College of William & Mary, Indiana University (Bloomington)Indiana University, Georgetown University
+order=23rd
+title=Chancellor of The College of William & Mary
+term_start = February 3, 2012
+term_end = 
+predecessor = Sandra Day O'Connor
+successor = 
+order1=22nd
+title1=United States Secretary of Defense
+term_start1=December 18, 2006
+term_end1=July 1, 2011
+predecessor1=Donald Rumsfeld
+successor1=Leon Panetta
+president1=George W. BushBarack Obama
+deputy1=Gordon R. England
+signature=
+order2 = 22nd 
+title2 = President of Texas A&M University
+term_start2 = August 1, 2002
+term_end2 = December 16, 2006
+predecessor2 = Ray M. Bowen
+successor2 = Eddie J. Davis
+order3=15th
+title3=Director of Central Intelligence
+term_start3=November 6, 1991
+term_end3=January 20, 1993
+predecessor3=William Hedgcock Webster
+successor3=R. James Woolsey, Jr.
+president3=George H. W. Bush
+deputy3=Richard James KerrWilliam Oliver Studeman
+order4=16th Deputy Director of Central Intelligence
+term_start4=April 1986
+term_end4=March 1989
+president4=Ronald ReaganGeorge H. W. Bush
+predecessor4=John Norman McMahon
+successor4=Richard James Kerr
+branch=United States Air Force
+serviceyears=1967-1969
+battles=Vietnam War
+
+'''Robert Michael Gates''' (born September 25, 1943) was the 22nd United States Secretary of Defense. He took office on December 18, 2006 under George W. Bush and Barack Obama's administrations until his retirement on July 1, 2011cite newsurl=http://news.bbc.co.uk/2/hi/americas/6190279.stmtitle=New US defence secretary sworn inauthor=work=BBC Newsdate=December 18, 2006accessdate=2006-12-18 Prior to this, Gates served for 26 years in the Central Intelligence Agency and the United States National Security Council. Under President of the United StatesPresident George H. W. Bush, Gates served as Director of Central Intelligence.  He was also president of Texas A&M UniversityTexas A&M. He is currently Chancellor of the College of William and Mary.
+
+== References ==
+reflist
+
+commonscat
+
+GW Bush cabinet
+Obama cabinetstate=collapsed
+USSecDef
+DCIA
+
+
+US-bio-stub
+
+DEFAULTSORT:Gates, Robert
+Category:1943 births
+Category:Living people
+Category:United States Secretaries of Defense
+Category:Directors of the Central Intelligence Agency
+Category:Politicians from Kansas
+Category:People from Wichita, Kansas
