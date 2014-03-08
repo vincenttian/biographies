@@ -5,6 +5,10 @@ import yaml
 import urllib
 import urllib2
 
+# Define list of people here
+people = ['mark_zuckerberg', 'warren_buffett', 'steve_jobs']
+
+
 class WikipediaError(Exception):
     pass
 
@@ -91,7 +95,6 @@ class Wikipedia:
         return results
 
 if __name__ == '__main__':
-    people = ['mark_zuckerberg', 'warren_buffett', 'steve_jobs']
     for person in people:
         try:
             wiki = Wikipedia('simple')
@@ -111,7 +114,7 @@ if __name__ == '__main__':
             text_file.write("Overview:\n" + overview)
             text_file.close()
         except Exception as e:
-            print e
+            print person + "failed to be found on Wikipedia"
 
 
 

@@ -5,8 +5,11 @@ import re
 CRUNCHBASE_URL_1 = "http://api.crunchbase.com/v/1/person/"
 CRUNCHBASE_URL_2 = ".js?api_key=emy48jd7q3k7kv6tx8ft6adb"
 
+# Define list of people here
+people = ['mark_zuckerberg', 'steve_jobs']
+
+
 if __name__ == "__main__":
-	people = ['mark_zuckerberg', 'sa;dflkasdf', 'steve_jobs']
 	for person in people:
 
 		r = requests.get(CRUNCHBASE_URL_1 + person + CRUNCHBASE_URL_2)
@@ -38,5 +41,4 @@ if __name__ == "__main__":
 			text_file.close()
 
 		except Exception as e:
-			print e
-
+			print person + "failed to be found on the crunchbase API"
