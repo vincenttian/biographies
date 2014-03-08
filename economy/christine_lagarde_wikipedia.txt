@@ -1,0 +1,53 @@
+Overview:
+Use dmy datesdate=April 2012
+Infobox Officeholder
+name           = Christine Lagarde
+image          = Lagarde, Christine (official portrait 2011).jpg
+office         = 11th Managing Director of the International Monetary Fund
+deputy         = John LipskyDavid Lipton
+term_start     = 5 July 2011
+term_end       =
+predecessor    = Dominique Strauss-Kahn
+successor      =
+office2        = Minister of the Economy, Industry and Employment (France)Minister of Finance
+primeminister2 = François Fillon
+term_start2    = 19 June 2007
+term_end2      = 29 June 2011
+predecessor2   = Jean-Louis Borloo
+successor2     = François Baroin
+office3        = Ministry of Agriculture (France)Minister of Agriculture
+primeminister3 = François Fillon
+term_start3    = 18 May 2007
+term_end3      = 18 June 2007
+predecessor3   = Dominique Bussereau
+successor3     = Michel Barnier
+office4        = Minister of Commerce and Industry (France)Minister of Commerce and Industry
+primeminister4 = Dominique de Villepin
+term_start4    = 2 June 2005
+term_end4      = 15 May 2007
+predecessor4   = Christian Jacob (French politician)Christian Jacob
+successor4     = Position abolished
+birth_date     = birth date and age195611df=y
+birth_place    = Paris, French Fourth RepublicFrance
+death_date     =
+death_place    =
+party          = Union for a Popular Movement
+alma_mater     = Paris West University Nanterre La DéfenseInstitut d'études politiques d'Aix-en-ProvenceInstitute of Political Studies, Aix-en-Provence
+religion       = Roman Catholicism
+signature      =
+
+'''Christine Madeleine Odette Lagarde''' (née Lalouette) (born 1 January 1956) is a FranceFrench economist, lawyer and politician who has been the Managing director of the International Monetary Fund (IMF) since 5 July 2011. She previously served as French Minister of Finance from 19 June 2007 to 29 June 2011 when she was elected IMF managing director. Before that she served as French Minister for Commerce and Industry from 2 July 2005 to 15 May 2007 in the government of Dominique de Villepin.
+
+==References==
+reflistrefs=
+cite weburl=http://www.forbes.com/profile/christine-lagarde/title=Christine LagardePublisher=''Forbes''accessdate=7 February 2013
+
+
+DEFAULTSORT:Lagarde, Christine
+Category:1956 births
+Category:Living people
+Category:French lawyers
+Category:Politicians from Paris
+Category:Managing Directors of the International Monetary Fund
+
+Biography-stub

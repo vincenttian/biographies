@@ -1,0 +1,47 @@
+Overview:
+Infobox officeholder
+name         = Ben Bernanke
+birth_name=Ben Shalom Bernanke
+image        = Ben Bernanke official portrait.jpg
+office       = List of Chairmen of the Federal Reserve14th Chairman of the Federal Reserve
+president    = George W. BushBarack Obama
+deputy       = Roger W. Ferguson, Jr.Roger FergusonDonald KohnJanet Yellen
+term_start   = February 1, 2006
+term_end     = February 1, 2014
+predecessor  = Alan Greenspan
+successor    = Janet Yellen
+office2      = 23rd Chairman of the Council of Economic Advisers
+president2   = George W. Bush
+term_start2  = June 21, 2005
+term_end2    = January 31, 2006
+predecessor2 = Harvey S. RosenHarvey Rosen
+successor2   = Edward Lazear
+office3      = Federal Reserve Board of GovernorsMember of the Board of Governors of the Federal Reserve System
+nominator3   = George W. Bush
+term_start3  = August 5, 2002
+term_end3    = June 21, 2005
+predecessor3 =
+sucessor3    =
+birth_date   = birth date and age19531213
+birth_place  = nowrapAugusta, Georgia, U.S.
+death_date   =
+death_place  =
+party        = Republican Party (United States)Republican Party
+spouse       = Anna Friedmann
+alma_mater   = Harvard UniversityMassachusetts Institute of Technology
+
+'''Ben Shalom Bernanke'''Bernanke's first name is Ben, not Benjamin and "Ben Shalom" is not abbreviated. (ref: "[http://www.slate.com/id/2128630/ Big Ben]", ''Slate'', October 24, 2005) [http://georgewbush-whitehouse.archives.gov/news/nominations/106.html http://georgewbush-whitehouse.archives.gov/news/nominations/106.html] (b. December 13, 1953) is an United StatesAmerican economist. He was the chairman of the Federal Reserve, the central bank of the United States.cite newsurl=http://www.time.com/time/specials/packages/article/0,28804,1946375_1947251,00.htmltitle=Person of the Year 2009last=Grunwaldfirst=Michaeldate=16 December 2009work=Timeaccessdate=February 4, 2011
+
+==References==
+reflist
+
+
+US-bio-stub
+
+DEFAULTSORT:Bernanke, Ben
+Category:1953 births
+Category:Living people
+Category:American economists
+Category:People from Georgia (U.S. state)
+Category:Republicans (United States)
+Category:Time People of the Year

@@ -1,0 +1,17 @@
+Overview:
+Sergey Brin, a native of Moscow, received a bachelor of science degree with honors in mathematics and computer science from the University of Maryland at College Park. He is currently on leave from the Ph.D. program in computer science at Stanford University, where he received his master&#8217;s degree. Sergey is a recipient of a National Science Foundation Graduate Fellowship as well as an honorary MBA from Instituto de Empresa. At Stanford, he met Larry Page and worked on the project that became Google. Together they founded Google Inc. in 1998, and Sergey continues to share responsibility for day-to-day operations with Larry Page and Eric Schmidt.
+
+Sergey&#8217;s research interests include search engines, information extraction from unstructured sources, and data mining of large text collections and scientific data. He has published more than a dozen academic papers, including Extracting Patterns and Relations from the World Wide Web; Dynamic Data Mining: A New Architecture for Data with High Dimensionality, which he published with Larry Page; Scalable Techniques for Mining Casual Structures; Dynamic Itemset Counting and Implication Rules for Market Basket Data; and Beyond Market Baskets: Generalizing Association Rules to Correlations.
+
+Sergey has been a featured speaker at several international academic, business and technology forums, including the World Economic Forum and the Technology, Entertainment and Design Conference. He has shared his views on the technology industry and the future of search on the Charlie Rose Show, CNBC, and CNNfn. In 2004, he and Larry Page were named &#8220;Persons of the Week&#8221; by ABC World News Tonight.
+
+Source:Google.com
+
+Education:
+University of Maryland
+
+Work Experience:
+Co-Founder, President of Technology at Google
+
+Things associated with Sergey_Brin:
+google

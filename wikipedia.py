@@ -6,8 +6,13 @@ import urllib
 import urllib2
 
 # Define list of people here
-people = ['mark_zuckerberg', 'warren_buffett', 'steve_jobs']
-
+people = ['anne_wojcicki', 'bill_gates', 'brian_chesky', 'chris_anderson'\
+        'drew_houston', 'elon_musk', 'jack_dorsey', 'jeff_bezos'\
+        'larry_ellison', 'larry_page', 'marc_benioff', 'marissa_mayer'\
+        'mark_zuckerberg', 'meg_whitman', 'michael_dell', 'nikola_tesla'\
+        'peter_thiel', 'sergey_brin', 'shantau_narayen', 'sheryl_sandberg'\
+        'steve_ballmer', 'steve_jobs', 'steve_wozniak', 'tim_cook'\
+        ]
 
 class WikipediaError(Exception):
     pass
@@ -114,7 +119,7 @@ if __name__ == '__main__':
             text_file.write("Overview:\n" + overview)
             text_file.close()
         except Exception as e:
-            print person + "failed to be found on Wikipedia"
+            print changed_person + " failed to be found on Wikipedia"
 
 
 

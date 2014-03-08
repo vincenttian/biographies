@@ -1,0 +1,33 @@
+Overview:
+Infobox person
+name           = Jack Dorsey
+image          = Jack Dorsey 2012 Shankbone.JPG 
+image_size     = 
+caption        = Dorsey at the 2012 Time 100 Gala.
+birth_date     = birth date and age19761119mf=y[http://www.facebook.com/jackdorseyofficialpage Jack Dorsey's Facebook account]
+birth_place    = St. Louis, Missouri, U.S.
+occupation     = software designer, entrepreneur
+net worth  = Gain $650 million (est.) cite newsurl=http://www.forbes.com/pictures/ekge45eg/jack-dorsey/ work=Forbes first=List last=Features
+residence      = San Francisco, California, U.S.
+'''Jack Dorsey''' is an American software developer and business person. He is widely known as the creator of Twitter.  He is also the founder and CEO of Square (payment service)Square, a mobile payments company.cite newsauthor=Strange, Adariotitle=Flickr Document Reveals Origin Of Twitterurl=http://blog.wired.com/business/2007/04/flickr_document.htmldate=April 20, 2007work=Wired Newspublisher=CondéNetaccessdate=November 5, 2008 In 2008, he was named as one of the top 35 innovators in the world under the age of 35.cite newstitle=TR35 Young Innovatorurl=http://www.technologyreview.com/tr35/Profile.aspx?Cand=T&TRID=700year=2008work=Technology Reviewpublisher=Massachusetts Institute of Technologyaccessdate=November 5, 2008 
+
+==References==
+Reflist
+
+Persondata <!-- Metadata: see Wikipedia:Persondata. -->
+NAME              = Dorsey, Jack
+ALTERNATIVE NAMES =
+SHORT DESCRIPTION = Internet computer software executive
+DATE OF BIRTH     = November 19, 1976
+PLACE OF BIRTH    = St. Louis, Missouri, U.S.
+DATE OF DEATH     =
+PLACE OF DEATH    =
+
+
+DEFAULTSORT:Dorsey, Jack
+Category:1976 births
+Category:Living people
+Category:Business people from Missouri
+Category:People from St. Louis, Missouri
+
+US-bio-stub

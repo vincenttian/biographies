@@ -6,9 +6,13 @@ CRUNCHBASE_URL_1 = "http://api.crunchbase.com/v/1/person/"
 CRUNCHBASE_URL_2 = ".js?api_key=emy48jd7q3k7kv6tx8ft6adb"
 
 # Define list of people here
-people = ['mark_zuckerberg', 'steve_jobs']
-
-
+people = ['anne_wojcicki', 'bill_gates', 'brian_chesky', 'chris_anderson', \
+        'drew_houston', 'elon_musk', 'jack_dorsey', 'jeff_bezos', \
+        'larry_ellison', 'larry_page', 'marc_benioff', 'marissa_mayer', \
+        'mark_zuckerberg', 'meg_whitman', 'michael_dell', 'nikola_tesla', \
+        'peter_thiel', 'sergey_brin', 'shantau_narayen', 'sheryl_sandberg', \
+        'steve_ballmer', 'steve_jobs', 'steve_wozniak', 'tim_cook'\
+        ]
 if __name__ == "__main__":
 	for person in people:
 
@@ -16,10 +20,10 @@ if __name__ == "__main__":
 		data_crunch = r.text
 
 		try:
-			d2 = json.loads(data_crunch)
 			changed_person = person.split('_')
 			changed_person = person[0] + " " + person[1]
 			changed_person = person.title()
+			d2 = json.loads(data_crunch)
 			overview = d2['overview']
 			institution = d2['degrees'][0]['institution']
 			companies = d2['relationships']
@@ -41,4 +45,4 @@ if __name__ == "__main__":
 			text_file.close()
 
 		except Exception as e:
-			print person + "failed to be found on the crunchbase API"
+			print person + " failed to be found on the crunchbase API"
